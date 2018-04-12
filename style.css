@@ -1,0 +1,44 @@
+body, html{
+    margin: 0;
+    color: black;
+    font-family: "Calibri";
+}
+#all{
+    width:800px;
+    height:800px;
+    margin: auto;
+}
+#header{
+    width: 100%;
+    height: 120px;
+    border-bottom: 1px solid black;
+}
+#header > p{
+    text-align: center;
+    font-size: 44px;
+    font-style: oblique;
+    font-weight: bold;
+}
+#footer{
+    width: 100%;
+    height: 200px;
+    font-size: 19px;
+    text-align: center;
+}
+#article{
+    width: 100%;
+    height: 480px;
+    border-bottom: 1px solid ;
+}
+#article > form {
+    width: 780px;
+    height: 335px;
+    margin: auto;
+    border: 1px solid black;
+
+}
+.walecIMG{
+    display: block;
+    margin: 5px auto;
+}
+
